@@ -1,0 +1,1761 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UiPress Pro\n"
+"POT-Creation-Date: 2022-12-13 11:55+0000\n"
+"PO-Revision-Date: 2023-06-20 13:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: uipress-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/classes/uip-pro-ajax.php:66
+msgid "No post to delete"
+msgstr "Aucun message à supprimer"
+
+#: admin/classes/uip-pro-ajax.php:72 admin/classes/uip-pro-ajax.php:121
+msgid "Post does not exist"
+msgstr "L'article n'existe pas"
+
+#: admin/classes/uip-pro-ajax.php:78
+msgid "You do not have the correct capabilities to delete this post"
+msgstr ""
+"Vous ne disposez pas des capacités nécessaires pour supprimer ce message"
+
+#: admin/classes/uip-pro-ajax.php:88
+msgid "Unable to delete the post right now"
+msgstr "Impossible de supprimer le message pour le moment"
+
+#: admin/classes/uip-pro-ajax.php:115
+msgid "No post to duplicate"
+msgstr "Aucun poste à dupliquer"
+
+#: admin/classes/uip-pro-ajax.php:129
+msgid "copy"
+msgstr "copier"
+
+#: admin/classes/uip-pro-ajax.php:202
+msgid "No folder to update"
+msgstr "Pas de dossier à mettre à jour"
+
+#: admin/classes/uip-pro-ajax.php:208 admin/classes/uip-pro-ajax.php:273
+msgid "Folder does not exist"
+msgstr "Le dossier n'existe pas"
+
+#: admin/classes/uip-pro-ajax.php:214
+msgid "You do not have the correct capabilities to update this folder"
+msgstr ""
+"Vous ne disposez pas des capacités nécessaires pour mettre à jour ce dossier"
+
+#: admin/classes/uip-pro-ajax.php:221
+msgid "Folder title is required"
+msgstr "Le titre du dossier est obligatoire"
+
+#: admin/classes/uip-pro-ajax.php:236
+msgid "Unable to update the folder right now"
+msgstr "Impossible de mettre à jour le dossier pour le moment"
+
+#: admin/classes/uip-pro-ajax.php:267
+msgid "No folder to delete"
+msgstr "Aucun dossier à supprimer"
+
+#: admin/classes/uip-pro-ajax.php:279
+msgid "You do not have the correct capabilities to delete this folder"
+msgstr ""
+"Vous ne disposez pas des capacités nécessaires pour supprimer ce dossier"
+
+#: admin/classes/uip-pro-ajax.php:288
+msgid "Unable to delete the folder right now"
+msgstr "Impossible de supprimer le dossier pour le moment"
+
+#: admin/classes/uip-pro-ajax.php:379
+msgid "No item to update"
+msgstr "Aucun élément à mettre à jour"
+
+#: admin/classes/uip-pro-ajax.php:438
+msgid "No folder given to fetch content for"
+msgstr "Aucun dossier donné pour récupérer le contenu de"
+
+#: admin/classes/uip-pro-ajax.php:540 admin/classes/uip-pro-ajax.php:560
+msgid "Unable to create content folder right now"
+msgstr "Impossible de créer un dossier de contenu pour le moment"
+
+#: admin/classes/uip-pro-ajax.php:546
+msgid "Folder name is required"
+msgstr "Le nom du dossier est obligatoire"
+
+#: admin/classes/uip-pro-ajax.php:605
+msgid "No post type to fetch content for"
+msgstr "Aucun type de message à récupérer le contenu pour"
+
+#: admin/classes/uip-pro-ajax.php:611
+msgid "Post type does not exist"
+msgstr "Le type de poste n'existe pas"
+
+#: admin/classes/uip-pro-ajax.php:850 admin/classes/uip-pro-ajax.php:907
+msgid "You don't have sufficent priviledges to manage capabilities"
+msgstr "Vous n'avez pas les privilèges suffisants pour gérer les capacités"
+
+#: admin/classes/uip-pro-ajax.php:856 admin/classes/uip-pro-ajax.php:913
+msgid "No role name receieved to edit"
+msgstr "Aucun nom de rôle reçu pour modifier"
+
+#: admin/classes/uip-pro-ajax.php:861 admin/classes/uip-pro-ajax.php:918
+msgid "No role label receieved to edit"
+msgstr "Aucune étiquette de rôle reçue pour modifier"
+
+#: admin/classes/uip-pro-ajax.php:866
+msgid "No cap name receieved to create"
+msgstr "Aucun nom de cap n'a été reçu pour créer"
+
+#: admin/classes/uip-pro-ajax.php:881 admin/classes/uip-pro-ajax.php:938
+#: admin/classes/uip-pro-ajax.php:1006 admin/classes/uip-pro-ajax.php:1109
+msgid "Something has gone wrong"
+msgstr "Quelque chose s’est mal passée"
+
+#: admin/classes/uip-pro-ajax.php:886
+msgid "Capability added"
+msgstr "Capacité ajoutée"
+
+#: admin/classes/uip-pro-ajax.php:923
+msgid "No cap receieved to remove"
+msgstr "Aucun capuchon n'a été reçu pour le retirer"
+
+#: admin/classes/uip-pro-ajax.php:943
+msgid "Capability removed"
+msgstr "Capacité supprimée"
+
+#: admin/classes/uip-pro-ajax.php:963 admin/classes/uip-pro-ajax.php:1077
+msgid "You don't have sufficent priviledges to manage roles"
+msgstr "Vous n'avez pas les privilèges suffisants pour gérer les rôles"
+
+#: admin/classes/uip-pro-ajax.php:969
+msgid "No role data receieved to create"
+msgstr "Aucune donnée de rôle reçue pour créer"
+
+#: admin/classes/uip-pro-ajax.php:975
+msgid "Role label is required"
+msgstr "L'étiquette de rôle est requise"
+
+#: admin/classes/uip-pro-ajax.php:981 admin/classes/uip-pro-ajax.php:1089
+msgid "Role name is required"
+msgstr "Le nom du rôle est obligatoire"
+
+#: admin/classes/uip-pro-ajax.php:987
+msgid "A role with that name already exists"
+msgstr "Un rôle portant ce nom existe déjà"
+
+#: admin/classes/uip-pro-ajax.php:1011
+msgid "Role created"
+msgstr "Rôle créé"
+
+#: admin/classes/uip-pro-ajax.php:1030
+msgid "You don't have sufficent priviledges to delete roles"
+msgstr "Vous n'avez pas les privilèges suffisants pour supprimer des rôles"
+
+#: admin/classes/uip-pro-ajax.php:1036
+msgid "No role data receieved to delete"
+msgstr "Aucune donnée de rôle reçue à supprimer"
+
+#: admin/classes/uip-pro-ajax.php:1042
+msgid "Role name is required to perform delete"
+msgstr "Le nom du rôle est requis pour effectuer la suppression"
+
+#: admin/classes/uip-pro-ajax.php:1051
+msgid "You can't delete a role that is currenty assigned to yourself"
+msgstr ""
+"Vous ne pouvez pas supprimer un rôle qui vous est actuellement attribué"
+
+#: admin/classes/uip-pro-ajax.php:1058
+msgid "Role removed"
+msgstr "Rôle supprimé"
+
+#: admin/classes/uip-pro-ajax.php:1083
+msgid "No role data receieved to save"
+msgstr "Aucune donnée de rôle reçue pour sauvegarder"
+
+#: admin/classes/uip-pro-ajax.php:1114
+msgid "Role updated"
+msgstr "Rôle actualisé"
+
+#: admin/classes/uip-pro-ajax.php:1230
+msgid "You don't have necessary permissions to activate plugins"
+msgstr "Vous n'avez pas les autorisations nécessaires pour activer les plugins"
+
+#: admin/classes/uip-pro-ajax.php:1255
+msgid "Unable to activate this plugin"
+msgstr "Impossible d'activer ce plugin"
+
+#: admin/classes/uip-pro-ajax.php:1260
+msgid "Plugin activated"
+msgstr "Plugin activé"
+
+#: admin/classes/uip-pro-ajax.php:1276
+msgid "You don't have necessary permissions to install plugins"
+msgstr ""
+"Vous n'avez pas les autorisations nécessaires pour installer des plugins"
+
+#: admin/classes/uip-pro-ajax.php:1288
+msgid "Unable to install this plugin"
+msgstr "Impossible d'installer ce plugin"
+
+#: admin/classes/uip-pro-ajax.php:1293
+msgid "Plugin installed"
+msgstr "Plugin installé"
+
+#: admin/classes/uip-pro-ajax.php:1349
+msgid "Plugins found"
+msgstr "Plugins trouvés"
+
+#: admin/classes/uip-pro-ajax.php:1368
+msgid "You don't have necessary permissions to update plugins"
+msgstr ""
+"Vous n'avez pas les autorisations nécessaires pour mettre à jour les plugins"
+
+#: admin/classes/uip-pro-ajax.php:1382
+msgid "Unable to upgrade this plugin"
+msgstr "Impossible de mettre à jour ce plugin"
+
+#: admin/classes/uip-pro-ajax.php:1387
+msgid "Plugin updated"
+msgstr "Extension mise à jour"
+
+#: admin/classes/uip-pro-ajax.php:1460
+msgid "Inccorrect token sent to server"
+msgstr "Un jeton incorrect a été envoyé au serveur"
+
+#: admin/classes/uip-pro-ajax.php:1494 admin/classes/uip-pro-ajax.php:1500
+msgid "Inccorrect data passed to server"
+msgstr "Données incorrectes transmises au serveur"
+
+#: admin/classes/uip-pro-ajax.php:1550
+msgid "You need a licence key to use analytics blocks"
+msgstr ""
+"Vous avez besoin d'une clé de licence pour utiliser les blocs d'analyse"
+
+#: admin/classes/uip-pro-ajax.php:1558 admin/classes/uip-pro-ajax.php:1572
+msgid "You need to connect a google analytics account to display data"
+msgstr ""
+"Vous devez connecter un compte Google Analytics pour afficher les données"
+
+#: admin/classes/uip-pro-app.php:34
+msgctxt "post type general name"
+msgid "Content Folder"
+msgstr "Dossier Content"
+
+#: admin/classes/uip-pro-app.php:35
+msgctxt "post type singular name"
+msgid "Content Folder"
+msgstr "Dossier Content"
+
+#: admin/classes/uip-pro-app.php:36
+msgctxt "admin menu"
+msgid "Content Folders"
+msgstr "Dossiers de contenu"
+
+#: admin/classes/uip-pro-app.php:37
+msgctxt "add new on admin bar"
+msgid "Content Folder"
+msgstr "Dossier Content"
+
+#: admin/classes/uip-pro-app.php:38
+msgctxt "Template"
+msgid "Add New"
+msgstr "Ajouter"
+
+#: admin/classes/uip-pro-app.php:39
+msgid "Add New Content Folder"
+msgstr "Ajouter un nouveau dossier de contenu"
+
+#: admin/classes/uip-pro-app.php:40
+msgid "New Content Folder"
+msgstr "Nouveau dossier de contenu"
+
+#: admin/classes/uip-pro-app.php:41
+msgid "Edit Content Folders"
+msgstr "Modifier les dossiers de contenu"
+
+#: admin/classes/uip-pro-app.php:42
+msgid "View Content Folders"
+msgstr "Afficher les dossiers de contenu"
+
+#: admin/classes/uip-pro-app.php:43
+msgid "All Content Folders"
+msgstr "Tous les dossiers de contenu"
+
+#: admin/classes/uip-pro-app.php:44
+msgid "Search Content Folders"
+msgstr "Recherche dans les dossiers de contenu"
+
+#: admin/classes/uip-pro-app.php:45
+msgid "No Content Folders found."
+msgstr "Aucun dossier de contenu trouvé."
+
+#: admin/classes/uip-pro-app.php:46
+msgid "No Content Folders found in Trash."
+msgstr "Aucun dossier de contenu n'a été trouvé dans la corbeille."
+
+#: admin/classes/uip-pro-app.php:50
+msgid "Post type used for the uipress uipress folders"
+msgstr "Type de poste utilisé pour les dossiers uipress uipress"
+
+#: admin/classes/uip-pro-app.php:73
+msgid "uiBuilder"
+msgstr "uiBuilder"
+
+#: admin/classes/uip-pro-app.php:125 admin/uipress-pro-compiler.php:66
+msgid "UiPress Pro requires UiPress lite to be installed before activating"
+msgstr "UiPress Pro nécessite l'installation d'UiPress lite avant l'activation"
+
+#: assets/js/uip/blocks/analytics/google-analytics-charts.js:44
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:45
+#: assets/js/uip/blocks/analytics/google-analytics-tables.js:47
+msgid "last period"
+msgstr "dernière période"
+
+#: assets/js/uip/blocks/analytics/google-analytics-charts.js:45
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:46
+#: assets/js/uip/blocks/analytics/google-analytics-tables.js:48
+msgid ""
+"Please select a chart metric in this block's options to show chart data."
+msgstr ""
+"Veuillez sélectionner une métrique graphique dans les options de ce bloc "
+"pour afficher les données graphiques."
+
+#: assets/js/uip/blocks/analytics/google-analytics-charts.js:46
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:47
+#: assets/js/uip/blocks/analytics/google-analytics-tables.js:49
+msgid "Switch account"
+msgstr "Changer de compte"
+
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:48
+msgid "minutes ago"
+msgstr "il y a quelques minutes"
+
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:49
+msgid "Thirty minutes ago"
+msgstr "Il y a 30 minutes"
+
+#: assets/js/uip/blocks/analytics/google-analytics-realtime.js:50
+msgid "Now"
+msgstr "Maintenant"
+
+#: assets/js/uip/blocks/analytics/google-analytics-tables.js:50
+msgid "Count"
+msgstr "Nombre"
+
+#: assets/js/uip/blocks/analytics/google-analytics-tables.js:51
+msgid "Change"
+msgstr "Change"
+
+#: assets/js/uip/blocks/analytics/google-connect-account.js:70
+msgid "Connection failed"
+msgstr "Échec de la connexion"
+
+#: assets/js/uip/blocks/analytics/google-connect-account.js:70
+msgid "Incorrect credentials returned from account. Please try again"
+msgstr ""
+"Des informations d'identification incorrectes ont été renvoyées du compte. "
+"Veuillez réessayer"
+
+#: assets/js/uip/blocks/analytics/google-connect-account.js:82
+msgid "Unable to save account"
+msgstr "Impossible d'enregistrer le compte"
+
+#: assets/js/uip/blocks/analytics/loader.js:10
+msgid "GA charts"
+msgstr "Graphiques GA"
+
+#: assets/js/uip/blocks/analytics/loader.js:12
+msgid "Outputs your choice of charts and options on what data to display"
+msgstr ""
+"Fournit votre choix de graphiques et d'options sur les données à afficher"
+
+#: assets/js/uip/blocks/analytics/loader.js:13
+#: assets/js/uip/blocks/analytics/loader.js:189
+#: assets/js/uip/blocks/analytics/loader.js:336
+#: assets/js/uip/settings/template-settings-groups.js:12
+msgid "Analytics"
+msgstr "Analytics"
+
+#: assets/js/uip/blocks/analytics/loader.js:22
+#: assets/js/uip/blocks/analytics/loader.js:198
+#: assets/js/uip/blocks/analytics/loader.js:345
+#: assets/js/uip/blocks/dynamic/loader.js:23
+#: assets/js/uip/blocks/dynamic/loader.js:126
+#: assets/js/uip/blocks/dynamic/loader.js:205
+#: assets/js/uip/blocks/dynamic/loader.js:273
+#: assets/js/uip/blocks/dynamic/loader.js:357
+#: assets/js/uip/blocks/dynamic/loader.js:452
+#: assets/js/uip/blocks/elements/loader.js:22
+#: assets/js/uip/blocks/elements/loader.js:89
+#: assets/js/uip/blocks/elements/loader.js:165
+#: assets/js/uip/blocks/inputs/loader.js:22
+#: assets/js/uip/blocks/inputs/loader.js:131
+#: assets/js/uip/blocks/inputs/loader.js:237
+#: assets/js/uip/blocks/inputs/loader.js:344
+#: assets/js/uip/blocks/inputs/loader.js:445
+#: assets/js/uip/blocks/layout/loader.js:23
+msgid "Block options"
+msgstr "Options de bloc"
+
+#: assets/js/uip/blocks/analytics/loader.js:28
+#: assets/js/uip/blocks/analytics/loader.js:204
+#: assets/js/uip/blocks/analytics/loader.js:351
+msgid "Chart title"
+msgstr "Titre :"
+
+#: assets/js/uip/blocks/analytics/loader.js:30
+msgid "Analytics chart"
+msgstr "Graphique analytique"
+
+#: assets/js/uip/blocks/analytics/loader.js:36
+#: assets/js/uip/blocks/analytics/loader.js:212
+#: assets/js/uip/blocks/analytics/loader.js:359
+msgid "Chart metric"
+msgstr "Graphique métrique"
+
+#: assets/js/uip/blocks/analytics/loader.js:41
+#: assets/js/uip/tools/role-editor.js:16
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: assets/js/uip/blocks/analytics/loader.js:45
+msgid "Revenue"
+msgstr "Revenu"
+
+#: assets/js/uip/blocks/analytics/loader.js:49
+msgid "Sessions"
+msgstr "Sessions"
+
+#: assets/js/uip/blocks/analytics/loader.js:53
+msgid "Page views"
+msgstr "Nombre de vues de la page"
+
+#: assets/js/uip/blocks/analytics/loader.js:57
+msgid "Conversion rate"
+msgstr "Taux de conversion"
+
+#: assets/js/uip/blocks/analytics/loader.js:61
+msgid "Engagement rate"
+msgstr "Taux d'engagement"
+
+#: assets/js/uip/blocks/analytics/loader.js:65
+msgid "Purchases"
+msgstr "Achats"
+
+#: assets/js/uip/blocks/analytics/loader.js:69
+msgid "Checkouts"
+msgstr "Événements de la page paiement"
+
+#: assets/js/uip/blocks/analytics/loader.js:73
+msgid "Add to carts"
+msgstr "Ajouter aux paniers"
+
+#: assets/js/uip/blocks/analytics/loader.js:77
+msgid "Average engagement time"
+msgstr "Durée moyenne d'engagement"
+
+#: assets/js/uip/blocks/analytics/loader.js:86
+msgid "Chart type"
+msgstr "Type de graphique"
+
+#: assets/js/uip/blocks/analytics/loader.js:91
+msgid "Line"
+msgstr "Ligne"
+
+#: assets/js/uip/blocks/analytics/loader.js:95
+msgid "Bar"
+msgstr "Barre"
+
+#: assets/js/uip/blocks/analytics/loader.js:103
+#: assets/js/uip/blocks/analytics/loader.js:243
+msgid "Default date range (days)"
+msgstr "Plage de dates par défaut (jours)"
+
+#: assets/js/uip/blocks/analytics/loader.js:104
+#: assets/js/uip/blocks/analytics/loader.js:374
+msgid "Line colour"
+msgstr "Couleur de la ligne"
+
+#: assets/js/uip/blocks/analytics/loader.js:105
+msgid "Comparison line colour"
+msgstr "Couleur de la ligne de comparaison"
+
+#: assets/js/uip/blocks/analytics/loader.js:106
+msgid "Hide chart"
+msgstr "Cacher les diagrammes"
+
+#: assets/js/uip/blocks/analytics/loader.js:107
+#: assets/js/uip/blocks/analytics/loader.js:244
+#: assets/js/uip/blocks/analytics/loader.js:375
+msgid "Disable change account option"
+msgstr "Désactiver l'option de changement de compte"
+
+#: assets/js/uip/blocks/analytics/loader.js:113
+#: assets/js/uip/blocks/analytics/loader.js:250
+#: assets/js/uip/blocks/analytics/loader.js:381
+#: assets/js/uip/blocks/dynamic/loader.js:39
+#: assets/js/uip/blocks/dynamic/loader.js:136
+#: assets/js/uip/blocks/dynamic/loader.js:212
+#: assets/js/uip/blocks/dynamic/loader.js:289
+#: assets/js/uip/blocks/dynamic/loader.js:386
+#: assets/js/uip/blocks/dynamic/loader.js:482
+#: assets/js/uip/blocks/elements/loader.js:29
+#: assets/js/uip/blocks/elements/loader.js:106
+#: assets/js/uip/blocks/elements/loader.js:205
+#: assets/js/uip/blocks/inputs/loader.js:54
+#: assets/js/uip/blocks/inputs/loader.js:161
+#: assets/js/uip/blocks/inputs/loader.js:267
+#: assets/js/uip/blocks/inputs/loader.js:368
+#: assets/js/uip/blocks/inputs/loader.js:478
+#: assets/js/uip/blocks/layout/loader.js:56
+msgid "Block container"
+msgstr "Conteneur du bloc"
+
+#: assets/js/uip/blocks/analytics/loader.js:121
+#: assets/js/uip/blocks/analytics/loader.js:258
+#: assets/js/uip/blocks/analytics/loader.js:389
+#: assets/js/uip/blocks/dynamic/loader.js:47
+#: assets/js/uip/blocks/dynamic/loader.js:144
+#: assets/js/uip/blocks/dynamic/loader.js:220
+#: assets/js/uip/blocks/dynamic/loader.js:297
+#: assets/js/uip/blocks/dynamic/loader.js:394
+#: assets/js/uip/blocks/dynamic/loader.js:490
+#: assets/js/uip/blocks/elements/loader.js:37
+#: assets/js/uip/blocks/elements/loader.js:114
+#: assets/js/uip/blocks/elements/loader.js:213
+#: assets/js/uip/blocks/inputs/loader.js:62
+#: assets/js/uip/blocks/inputs/loader.js:169
+#: assets/js/uip/blocks/inputs/loader.js:275
+#: assets/js/uip/blocks/inputs/loader.js:376
+#: assets/js/uip/blocks/inputs/loader.js:486
+msgid "Style"
+msgstr "Style"
+
+#: assets/js/uip/blocks/analytics/loader.js:129
+msgid "Chart canvas"
+msgstr "Toile à graphique"
+
+#: assets/js/uip/blocks/analytics/loader.js:138
+#: assets/js/uip/blocks/analytics/loader.js:397
+msgid "Chart labels"
+msgstr "Étiquettes des graphiques"
+
+#: assets/js/uip/blocks/analytics/loader.js:147
+#: assets/js/uip/blocks/analytics/loader.js:293
+#: assets/js/uip/blocks/analytics/loader.js:406
+msgid "Percentage change"
+msgstr "Variation en pourcentage"
+
+#: assets/js/uip/blocks/analytics/loader.js:156
+#: assets/js/uip/blocks/analytics/loader.js:302
+#: assets/js/uip/blocks/analytics/loader.js:415
+#: assets/js/uip/blocks/dynamic/loader.js:83
+#: assets/js/uip/blocks/dynamic/loader.js:162
+#: assets/js/uip/blocks/dynamic/loader.js:230
+#: assets/js/uip/blocks/dynamic/loader.js:314
+#: assets/js/uip/blocks/dynamic/loader.js:411
+#: assets/js/uip/blocks/dynamic/loader.js:498
+#: assets/js/uip/blocks/elements/loader.js:45
+#: assets/js/uip/blocks/elements/loader.js:122
+#: assets/js/uip/blocks/elements/loader.js:230
+#: assets/js/uip/blocks/inputs/loader.js:88
+#: assets/js/uip/blocks/inputs/loader.js:195
+#: assets/js/uip/blocks/inputs/loader.js:301
+#: assets/js/uip/blocks/inputs/loader.js:402
+#: assets/js/uip/blocks/inputs/loader.js:512
+#: assets/js/uip/blocks/layout/loader.js:108
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:25
+#: assets/js/uip/settings/global-settings-groups.js:12
+msgid "Advanced"
+msgstr "Avancé"
+
+#: assets/js/uip/blocks/analytics/loader.js:159
+#: assets/js/uip/blocks/analytics/loader.js:305
+#: assets/js/uip/blocks/analytics/loader.js:418
+#: assets/js/uip/blocks/dynamic/loader.js:86
+#: assets/js/uip/blocks/dynamic/loader.js:165
+#: assets/js/uip/blocks/dynamic/loader.js:233
+#: assets/js/uip/blocks/dynamic/loader.js:317
+#: assets/js/uip/blocks/dynamic/loader.js:414
+#: assets/js/uip/blocks/dynamic/loader.js:501
+#: assets/js/uip/blocks/elements/loader.js:48
+#: assets/js/uip/blocks/elements/loader.js:125
+#: assets/js/uip/blocks/elements/loader.js:233
+#: assets/js/uip/blocks/inputs/loader.js:91
+#: assets/js/uip/blocks/inputs/loader.js:198
+#: assets/js/uip/blocks/inputs/loader.js:304
+#: assets/js/uip/blocks/inputs/loader.js:405
+#: assets/js/uip/blocks/inputs/loader.js:515
+#: assets/js/uip/blocks/layout/loader.js:111
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:26
+msgid "Custom classes"
+msgstr "Classes Personnalisé"
+
+#: assets/js/uip/blocks/analytics/loader.js:164
+#: assets/js/uip/blocks/analytics/loader.js:310
+#: assets/js/uip/blocks/analytics/loader.js:423
+#: assets/js/uip/blocks/dynamic/loader.js:91
+#: assets/js/uip/blocks/dynamic/loader.js:170
+#: assets/js/uip/blocks/dynamic/loader.js:238
+#: assets/js/uip/blocks/dynamic/loader.js:322
+#: assets/js/uip/blocks/dynamic/loader.js:419
+#: assets/js/uip/blocks/dynamic/loader.js:506
+#: assets/js/uip/blocks/elements/loader.js:54
+#: assets/js/uip/blocks/elements/loader.js:131
+#: assets/js/uip/blocks/elements/loader.js:239
+#: assets/js/uip/blocks/inputs/loader.js:96
+#: assets/js/uip/blocks/inputs/loader.js:203
+#: assets/js/uip/blocks/inputs/loader.js:309
+#: assets/js/uip/blocks/inputs/loader.js:410
+#: assets/js/uip/blocks/inputs/loader.js:520
+#: assets/js/uip/blocks/layout/loader.js:116
+msgid "Custom css"
+msgstr "CSS personnalisé"
+
+#: assets/js/uip/blocks/analytics/loader.js:172
+#: assets/js/uip/blocks/analytics/loader.js:318
+#: assets/js/uip/blocks/analytics/loader.js:431
+#: assets/js/uip/blocks/dynamic/loader.js:99
+#: assets/js/uip/blocks/dynamic/loader.js:178
+#: assets/js/uip/blocks/dynamic/loader.js:246
+#: assets/js/uip/blocks/dynamic/loader.js:330
+#: assets/js/uip/blocks/dynamic/loader.js:427
+#: assets/js/uip/blocks/dynamic/loader.js:514
+#: assets/js/uip/blocks/elements/loader.js:62
+#: assets/js/uip/blocks/elements/loader.js:139
+#: assets/js/uip/blocks/elements/loader.js:247
+#: assets/js/uip/blocks/inputs/loader.js:104
+#: assets/js/uip/blocks/inputs/loader.js:211
+#: assets/js/uip/blocks/inputs/loader.js:317
+#: assets/js/uip/blocks/inputs/loader.js:418
+#: assets/js/uip/blocks/inputs/loader.js:528
+#: assets/js/uip/blocks/layout/loader.js:124
+msgid "Custom javaScript"
+msgstr "JavaScript personnalisé"
+
+#: assets/js/uip/blocks/analytics/loader.js:186
+msgid "GA tables"
+msgstr "Tables GA"
+
+#: assets/js/uip/blocks/analytics/loader.js:188
+msgid "Outputs your choice of tables and options on what data to display"
+msgstr ""
+"Affiche votre choix de tableaux et d'options sur les données à afficher"
+
+#: assets/js/uip/blocks/analytics/loader.js:206
+msgid "Analytics table"
+msgstr "Tableau d'analyse"
+
+#: assets/js/uip/blocks/analytics/loader.js:217
+msgid "Visits by City"
+msgstr "Visites par ville"
+
+#: assets/js/uip/blocks/analytics/loader.js:221
+msgid "Visits by Country"
+msgstr "Visites par pays"
+
+#: assets/js/uip/blocks/analytics/loader.js:225
+msgid "Visits by source"
+msgstr "Visites par source"
+
+#: assets/js/uip/blocks/analytics/loader.js:229
+msgid "Visits by page"
+msgstr "Visites par page"
+
+#: assets/js/uip/blocks/analytics/loader.js:233
+msgid "Events"
+msgstr "Événements"
+
+#: assets/js/uip/blocks/analytics/loader.js:237
+msgid "Devices"
+msgstr "Périphériques"
+
+#: assets/js/uip/blocks/analytics/loader.js:266
+msgid "Table title"
+msgstr "Table Titre"
+
+#: assets/js/uip/blocks/analytics/loader.js:275
+msgid "Dates"
+msgstr "Dates"
+
+#: assets/js/uip/blocks/analytics/loader.js:284
+msgid "Table"
+msgstr "Tableau"
+
+#: assets/js/uip/blocks/analytics/loader.js:333
+msgid "GA realtime"
+msgstr "GA en temps réel"
+
+#: assets/js/uip/blocks/analytics/loader.js:335
+msgid "Displays live visitor data about your site"
+msgstr "Affiche des données en direct sur les visiteurs de votre site"
+
+#: assets/js/uip/blocks/analytics/loader.js:353
+msgid "Analytics realtime"
+msgstr "Analyse en temps réel"
+
+#: assets/js/uip/blocks/analytics/loader.js:364
+msgid "Active users"
+msgstr "Utilisateurs actifs"
+
+#: assets/js/uip/blocks/analytics/loader.js:368
+msgid "Conversions"
+msgstr "Conversions"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:24
+#: assets/js/uip/blocks/dynamic/content-navigator.js:557
+#: assets/js/uip/blocks/dynamic/group-date-range.js:29
+#: assets/js/uip/blocks/dynamic/media-library.js:30
+#: assets/js/uip/blocks/dynamic/plugin-search.js:25
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:16
+#: assets/js/uip/blocks/dynamic/user-meta.js:14
+#: assets/js/uip/blocks/inputs/checkbox-input.js:17
+#: assets/js/uip/blocks/inputs/colour-select-input.js:19
+#: assets/js/uip/blocks/inputs/date-range.js:27
+#: assets/js/uip/blocks/inputs/image-select-input.js:18
+#: assets/js/uip/blocks/inputs/radio-input.js:17
+msgid "Input placeholder..."
+msgstr "Placeholder d'entrée..."
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:25
+#: assets/js/uip/blocks/dynamic/content-navigator.js:558
+msgid "New"
+msgstr "Nouveau"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:26
+#: assets/js/uip/blocks/dynamic/content-navigator.js:559
+msgid "Load more"
+msgstr "Charger plus"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:27
+#: assets/js/uip/blocks/dynamic/content-navigator.js:560
+msgid "Search"
+msgstr "Rechercher"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:28
+#: assets/js/uip/blocks/dynamic/content-navigator.js:561
+msgid "View"
+msgstr "Voir"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:29
+#: assets/js/uip/blocks/dynamic/content-navigator.js:562
+#: assets/js/uip/blocks/dynamic/content-navigator.js:569
+msgid "Edit"
+msgstr "Modifier"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:30
+#: assets/js/uip/blocks/dynamic/content-navigator.js:565
+#: assets/js/uip/tools/role-editor.js:21
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:31
+#: assets/js/uip/blocks/dynamic/content-navigator.js:563
+#: assets/js/uip/tools/role-editor.js:22
+msgid "Delete"
+msgstr "Supprimer"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:32
+#: assets/js/uip/blocks/dynamic/content-navigator.js:564
+msgid "Folders"
+msgstr "Dossiers"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:33
+#: assets/js/uip/blocks/dynamic/content-navigator.js:462
+msgid "New folder"
+msgstr "Nouveau dossier"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:34
+#: assets/js/uip/blocks/dynamic/content-navigator.js:463
+#: assets/js/uip/blocks/dynamic/content-navigator.js:566
+msgid "Folder name"
+msgstr "Nom du dossier"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:35
+#: assets/js/uip/blocks/dynamic/content-navigator.js:464
+#: assets/js/uip/blocks/dynamic/content-navigator.js:567
+msgid "Folder colour"
+msgstr "Couleur du dossier"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:36
+#: assets/js/uip/blocks/dynamic/content-navigator.js:465
+msgid "Create"
+msgstr "Créer"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:189
+#: assets/js/uip/blocks/dynamic/content-navigator.js:699
+msgid "Item duplicated"
+msgstr "Article dupliqué"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:212
+#: assets/js/uip/blocks/dynamic/content-navigator.js:721
+msgid "Item deleted"
+msgstr "Élémént supprimé"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:223
+msgid "Item removed from folder"
+msgstr "Élément retiré du dossier"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:477
+msgid "Folder name can not be blank"
+msgstr "Le nom du dossier ne peut pas être vide"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:496
+msgid "Folder created"
+msgstr "Dossier créé"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:568
+#: assets/js/uip/blocks/dynamic/plugin-search.js:26
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:17
+msgid "Update"
+msgstr "Mise à jour"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:660
+msgid "Folder deleted"
+msgstr "Dossier supprimé"
+
+#: assets/js/uip/blocks/dynamic/content-navigator.js:680
+msgid "Folder updated"
+msgstr "Dossier mis à jour"
+
+#: assets/js/uip/blocks/dynamic/loader.js:10
+msgid "Grouped Date range"
+msgstr "Groupé Plage de dates"
+
+#: assets/js/uip/blocks/dynamic/loader.js:12
+msgid ""
+"Outputs a grouped date picker. This date picker is used for controlling it's "
+"siblings range such as analytic blocks."
+msgstr ""
+"Produit un sélecteur de date groupé. Ce sélecteur de date est utilisé pour "
+"contrôler l'étendue de ses frères et sœurs, comme les blocs analytiques."
+
+#: assets/js/uip/blocks/dynamic/loader.js:13
+#: assets/js/uip/blocks/dynamic/loader.js:117
+#: assets/js/uip/blocks/dynamic/loader.js:196
+#: assets/js/uip/blocks/dynamic/loader.js:264
+#: assets/js/uip/blocks/dynamic/loader.js:348
+#: assets/js/uip/blocks/dynamic/loader.js:443
+#: assets/js/uip/blocks/elements/loader.js:13
+#: assets/js/uip/blocks/elements/loader.js:80
+#: assets/js/uip/blocks/elements/loader.js:157
+msgid "Dynamic"
+msgstr "Dynamique"
+
+#: assets/js/uip/blocks/dynamic/loader.js:29
+#: assets/js/uip/blocks/dynamic/loader.js:279
+#: assets/js/uip/blocks/inputs/loader.js:42
+#: assets/js/uip/blocks/inputs/loader.js:466
+msgid "Placeholder"
+msgstr "Etiquette"
+
+#: assets/js/uip/blocks/dynamic/loader.js:31
+#: assets/js/uip/blocks/inputs/loader.js:44
+msgid "Placeholder text..."
+msgstr "Texte de remplacement..."
+
+#: assets/js/uip/blocks/dynamic/loader.js:55
+#: assets/js/uip/blocks/inputs/loader.js:70
+msgid "Input style"
+msgstr "Style d'entrée"
+
+#: assets/js/uip/blocks/dynamic/loader.js:64
+#: assets/js/uip/blocks/inputs/loader.js:28
+#: assets/js/uip/blocks/inputs/loader.js:79
+#: assets/js/uip/blocks/inputs/loader.js:137
+#: assets/js/uip/blocks/inputs/loader.js:186
+#: assets/js/uip/blocks/inputs/loader.js:243
+#: assets/js/uip/blocks/inputs/loader.js:292
+#: assets/js/uip/blocks/inputs/loader.js:350
+#: assets/js/uip/blocks/inputs/loader.js:393
+#: assets/js/uip/blocks/inputs/loader.js:451
+#: assets/js/uip/blocks/inputs/loader.js:503
+#: assets/js/uip/tools/role-editor.js:19
+msgid "Label"
+msgstr "Label"
+
+#: assets/js/uip/blocks/dynamic/loader.js:73
+msgid "Group area"
+msgstr "Zone de groupe"
+
+#: assets/js/uip/blocks/dynamic/loader.js:114
+msgid "Media library"
+msgstr "Bibliothèque de médias"
+
+#: assets/js/uip/blocks/dynamic/loader.js:116
+msgid "Outputs a media library, with upload, delete and folder features"
+msgstr ""
+"Crée une bibliothèque de médias, avec des fonctions de téléchargement, de "
+"suppression et de classement"
+
+#: assets/js/uip/blocks/dynamic/loader.js:129
+#: assets/js/uip/blocks/dynamic/loader.js:455
+msgid "Only show users own content?"
+msgstr "Afficher uniquement le contenu des utilisateurs ?"
+
+#: assets/js/uip/blocks/dynamic/loader.js:130
+msgid "Photos per page"
+msgstr "Photos par page"
+
+#: assets/js/uip/blocks/dynamic/loader.js:152
+msgid "Image area"
+msgstr "Zone d’image"
+
+#: assets/js/uip/blocks/dynamic/loader.js:193
+msgid "Plugin updates"
+msgstr "Mises à jour de l’extension"
+
+#: assets/js/uip/blocks/dynamic/loader.js:195
+msgid ""
+"Outputs a list of available plugin updates and allows you update from the "
+"block"
+msgstr ""
+"Affiche une liste des mises à jour de plugins disponibles et vous permet de "
+"les mettre à jour à partir du bloc"
+
+#: assets/js/uip/blocks/dynamic/loader.js:261
+msgid "Plugin search"
+msgstr "Recherche de plugins"
+
+#: assets/js/uip/blocks/dynamic/loader.js:263
+msgid ""
+"Search the plugin directory with quick filters, discover new plugins and "
+"install all from one block"
+msgstr ""
+"Effectuez des recherches dans le répertoire des plugins à l'aide de filtres "
+"rapides, découvrez de nouveaux plugins et installez-les tous à partir d'un "
+"seul bloc"
+
+#: assets/js/uip/blocks/dynamic/loader.js:281
+msgid "Search plugins..."
+msgstr "Rechercher des extensions..."
+
+#: assets/js/uip/blocks/dynamic/loader.js:305
+msgid "Search Input"
+msgstr "Entrée de Recherche"
+
+#: assets/js/uip/blocks/dynamic/loader.js:345
+msgid "User meta"
+msgstr "Nom d'utilisateur"
+
+#: assets/js/uip/blocks/dynamic/loader.js:347
+msgid "Outputs selected user meta, either as a string or an list of values"
+msgstr ""
+"Produit les méta utilisateurs sélectionnés, sous forme de chaîne de "
+"caractères ou de liste de valeurs"
+
+#: assets/js/uip/blocks/dynamic/loader.js:360
+msgid "Meta to output"
+msgstr "Méta à la sortie"
+
+#: assets/js/uip/blocks/dynamic/loader.js:364
+msgid "List direction (for array values)"
+msgstr "Direction de la liste (pour les valeurs de tableau)"
+
+#: assets/js/uip/blocks/dynamic/loader.js:369
+#: assets/js/uip/blocks/elements/loader.js:187
+msgid "Vertical"
+msgstr "Vertical"
+
+#: assets/js/uip/blocks/dynamic/loader.js:373
+#: assets/js/uip/blocks/elements/loader.js:191
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: assets/js/uip/blocks/dynamic/loader.js:402
+msgid "Meta value"
+msgstr "Valeur méta"
+
+#: assets/js/uip/blocks/dynamic/loader.js:440
+msgid "Content Navigator"
+msgstr "Navigateur de contenu"
+
+#: assets/js/uip/blocks/dynamic/loader.js:442
+msgid ""
+"Creates a navigatable file tree of all your site content like posts, pages "
+"and media. Allows for creation of new folders and organisation of content"
+msgstr ""
+"Crée une arborescence navigable de tous les contenus de votre site "
+"(articles, pages et médias). Permet de créer de nouveaux dossiers et "
+"d'organiser le contenu"
+
+#: assets/js/uip/blocks/dynamic/loader.js:456
+msgid "Post types available in navigator "
+msgstr "Types de messages disponibles dans le navigateur"
+
+#: assets/js/uip/blocks/dynamic/loader.js:460
+msgid "Default link"
+msgstr "Lien par défaut"
+
+#: assets/js/uip/blocks/dynamic/loader.js:465
+msgid "Edit post"
+msgstr "Modifier la publication"
+
+#: assets/js/uip/blocks/dynamic/loader.js:469
+msgid "View post"
+msgstr "Voir l'article"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:27
+msgid "Install"
+msgstr "Installer"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:28
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:18
+msgid "Details"
+msgstr "Détails"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:29
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:19
+msgid "New verasion"
+msgstr "Nouvelle verasion"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:30
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:20
+msgid "Watch out"
+msgstr "Faites attention"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:31
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:21
+msgid "This plugin has not been tested with your platform version"
+msgstr "Ce plugin n'a pas été testé avec la version de votre plateforme"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:32
+msgid "No plugins found for query"
+msgstr "Aucun plugin trouvé pour la requête"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:33
+msgid "Results"
+msgstr "Résultats"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:34
+msgid "Activate"
+msgstr "Activer"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:35
+msgid "Rating"
+msgstr "Évaluation"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:36
+msgid "Last updated"
+msgstr "Dernière mise à jour"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:37
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:38
+msgid "Active installs"
+msgstr "Installations actives"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:39
+msgid "Requires wp"
+msgstr "Nécessite wp"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:40
+msgid "Requires PHP"
+msgstr "Nécessite PHP"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:41
+msgid "or higher"
+msgstr "ou supérieur"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:42
+msgid "Images"
+msgstr "Images"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:226
+#: assets/js/uip/blocks/dynamic/plugin-search.js:248
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:94
+msgid "Success"
+msgstr "Succès"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:226
+msgid "was succesfully installed"
+msgstr "a été installé avec succès"
+
+#: assets/js/uip/blocks/dynamic/plugin-search.js:249
+msgid ""
+"was succesfully activated. You may need to refresh the page for any menu "
+"links to update"
+msgstr ""
+"a été activé avec succès. Vous devrez peut-être rafraîchir la page pour que "
+"les liens du menu soient mis à jour"
+
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:22
+msgid "Plugins are all up to date"
+msgstr "Les plugins sont tous à jour"
+
+#: assets/js/uip/blocks/dynamic/plugin-updates.js:94
+msgid "was succesfully updated"
+msgstr "a été mis à jour avec succès"
+
+#: assets/js/uip/blocks/elements/loader.js:10
+msgid "iFrame"
+msgstr "iFrame"
+
+#: assets/js/uip/blocks/elements/loader.js:12
+msgid "Outputs a iframe block"
+msgstr "Produit un bloc iframe"
+
+#: assets/js/uip/blocks/elements/loader.js:24
+msgid "Iframe URL"
+msgstr "Adresse URL iframe"
+
+#: assets/js/uip/blocks/elements/loader.js:49
+#: assets/js/uip/blocks/elements/loader.js:126
+#: assets/js/uip/blocks/elements/loader.js:234
+msgid "Conditional show"
+msgstr "Spectacle conditionnel"
+
+#: assets/js/uip/blocks/elements/loader.js:50
+#: assets/js/uip/blocks/elements/loader.js:127
+#: assets/js/uip/blocks/elements/loader.js:235
+msgid "Custom block template"
+msgstr "Modèle de bloc personnalisé"
+
+#: assets/js/uip/blocks/elements/loader.js:77
+msgid "HTML"
+msgstr "HTML"
+
+#: assets/js/uip/blocks/elements/loader.js:79
+msgid "This block allows you to output your own HTML into the template"
+msgstr "Ce bloc vous permet d'insérer votre propre HTML dans le modèle"
+
+#: assets/js/uip/blocks/elements/loader.js:95
+msgid "Custom HTML"
+msgstr "HTML Personnalisé"
+
+#: assets/js/uip/blocks/elements/loader.js:154
+msgid "Icon list"
+msgstr "Liste d’icônes"
+
+#: assets/js/uip/blocks/elements/loader.js:156
+msgid "Creates a list with icons"
+msgstr "Crée une liste avec des icônes"
+
+#: assets/js/uip/blocks/elements/loader.js:171
+msgid "List items"
+msgstr "Liste d’éléments"
+
+#: assets/js/uip/blocks/elements/loader.js:174
+msgid "List item one"
+msgstr "Liste élément 1"
+
+#: assets/js/uip/blocks/elements/loader.js:175
+msgid "List item two"
+msgstr "Liste élément 2"
+
+#: assets/js/uip/blocks/elements/loader.js:182
+msgid "List direction"
+msgstr "Direction de la liste"
+
+#: assets/js/uip/blocks/elements/loader.js:221
+msgid "Icons"
+msgstr "Icônes"
+
+#: assets/js/uip/blocks/inputs/colour-select-input.js:20
+#: assets/js/uip/blocks/inputs/image-select-input.js:19
+msgid "Replace"
+msgstr "Remplacer"
+
+#: assets/js/uip/blocks/inputs/colour-select-input.js:21
+#: assets/js/uip/blocks/inputs/image-select-input.js:20
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: assets/js/uip/blocks/inputs/loader.js:10
+#: assets/js/uip/blocks/inputs/loader.js:47
+msgid "Date range"
+msgstr "Plage de dates"
+
+#: assets/js/uip/blocks/inputs/loader.js:12
+msgid "Outputs a date picker that can be either a single date or date range."
+msgstr ""
+"Produit un sélecteur de date qui peut être une date unique ou une plage de "
+"dates."
+
+#: assets/js/uip/blocks/inputs/loader.js:13
+#: assets/js/uip/blocks/inputs/loader.js:122
+#: assets/js/uip/blocks/inputs/loader.js:228
+#: assets/js/uip/blocks/inputs/loader.js:335
+#: assets/js/uip/blocks/inputs/loader.js:436
+msgid "Form"
+msgstr "Formulaire"
+
+#: assets/js/uip/blocks/inputs/loader.js:30
+msgid "Text input"
+msgstr "Entrée de texte"
+
+#: assets/js/uip/blocks/inputs/loader.js:36
+#: assets/js/uip/blocks/inputs/loader.js:145
+#: assets/js/uip/blocks/inputs/loader.js:251
+#: assets/js/uip/blocks/inputs/loader.js:358
+#: assets/js/uip/blocks/inputs/loader.js:459
+msgid "Meta key"
+msgstr "Touche Meta"
+
+#: assets/js/uip/blocks/inputs/loader.js:48
+#: assets/js/uip/blocks/inputs/loader.js:155
+#: assets/js/uip/blocks/inputs/loader.js:261
+#: assets/js/uip/blocks/inputs/loader.js:362
+#: assets/js/uip/blocks/inputs/loader.js:472
+msgid "Required field"
+msgstr "Champ obligatoire"
+
+#: assets/js/uip/blocks/inputs/loader.js:119
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+#: assets/js/uip/blocks/inputs/loader.js:121
+msgid ""
+"A checkbox block with support for multiple options. For use with the form "
+"block"
+msgstr ""
+"Un bloc de cases à cocher prenant en charge plusieurs options. À utiliser "
+"avec le bloc de formulaire"
+
+#: assets/js/uip/blocks/inputs/loader.js:139
+#: assets/js/uip/blocks/inputs/loader.js:245
+#: assets/js/uip/blocks/inputs/loader.js:352
+#: assets/js/uip/blocks/inputs/loader.js:453
+msgid "Select"
+msgstr "Sélectionner"
+
+#: assets/js/uip/blocks/inputs/loader.js:152
+#: assets/js/uip/blocks/inputs/loader.js:258
+msgid "Select options"
+msgstr "Sélectionner les options"
+
+#: assets/js/uip/blocks/inputs/loader.js:177
+#: assets/js/uip/blocks/inputs/loader.js:283
+msgid "Select style"
+msgstr "Veuillez choisir un style"
+
+#: assets/js/uip/blocks/inputs/loader.js:225
+msgid "Radio"
+msgstr "Radio"
+
+#: assets/js/uip/blocks/inputs/loader.js:227
+msgid ""
+"A radio block with support for multiple options. For use with the form block"
+msgstr ""
+"Un bloc radio prenant en charge plusieurs options. À utiliser avec le bloc "
+"de formulaire"
+
+#: assets/js/uip/blocks/inputs/loader.js:332
+msgid "Image select"
+msgstr "Sélection de l'image"
+
+#: assets/js/uip/blocks/inputs/loader.js:334
+msgid "Outputs a image select input. For use with the form block"
+msgstr ""
+"Produit une entrée de sélection d'image. À utiliser avec le bloc de "
+"formulaire"
+
+#: assets/js/uip/blocks/inputs/loader.js:384
+#: assets/js/uip/blocks/inputs/loader.js:494
+msgid "Select area"
+msgstr "Sélection superficie"
+
+#: assets/js/uip/blocks/inputs/loader.js:433
+msgid "Colour select"
+msgstr "Choix de la couleur"
+
+#: assets/js/uip/blocks/inputs/loader.js:435
+msgid "Outputs a colour select input. For use with the form block"
+msgstr ""
+"Produit une entrée de sélection de couleur. À utiliser avec le bloc de "
+"formulaire"
+
+#: assets/js/uip/blocks/inputs/loader.js:468
+msgid "Select colour..."
+msgstr "Sélectionnez la couleur..."
+
+#: assets/js/uip/blocks/layout/loader.js:10
+msgid "Modal"
+msgstr "Fenêtre Popup"
+
+#: assets/js/uip/blocks/layout/loader.js:12
+msgid "Outputs a modal block with customisable content"
+msgstr "Produit un bloc modal avec un contenu personnalisable"
+
+#: assets/js/uip/blocks/layout/loader.js:13
+msgid "Layout"
+msgstr "Mise en page"
+
+#: assets/js/uip/blocks/layout/loader.js:29
+msgid "Trigger text"
+msgstr "Texte de déclenchement"
+
+#: assets/js/uip/blocks/layout/loader.js:31
+msgid "Press me"
+msgstr "Pressez-moi"
+
+#: assets/js/uip/blocks/layout/loader.js:37
+msgid "Icon"
+msgstr "Icône"
+
+#: assets/js/uip/blocks/layout/loader.js:38
+msgid "Icon position"
+msgstr "Position Icône"
+
+#: assets/js/uip/blocks/layout/loader.js:42
+#: assets/js/uip/blocks/layout/loader.js:44
+#: assets/js/uip/blocks/layout/loader.js:91
+msgid "Modal title"
+msgstr "Titre du fenêtre"
+
+#: assets/js/uip/blocks/layout/loader.js:50
+msgid "Keyboard shortcut to open"
+msgstr "Raccourci clavier pour ouvrir"
+
+#: assets/js/uip/blocks/layout/loader.js:64
+msgid "Trigger style"
+msgstr "Style de gâchette"
+
+#: assets/js/uip/blocks/layout/loader.js:73
+msgid "Trigger hover styles"
+msgstr "Déclencher des styles de survol"
+
+#: assets/js/uip/blocks/layout/loader.js:82
+msgid "Trigger active styles"
+msgstr "Styles actifs de déclenchement"
+
+#: assets/js/uip/blocks/layout/loader.js:99
+msgid "Modal body"
+msgstr "Corps modal"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:14
+msgid "Rename item"
+msgstr "Renommer l'élément"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:15
+msgid "Open menu editor"
+msgstr "Ouvrir l'éditeur de menu"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:16
+msgid "Item name"
+msgstr "Nom de l’article"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:17
+msgid "Separator"
+msgstr "Séparateur"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:18
+msgid "Item visibiity"
+msgstr "Visibilité de l'article"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:19
+msgid "Show submenu"
+msgstr "Afficher le sous-menu"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:20
+msgid "Add to menu"
+msgstr "Ajouter au menu"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:21
+msgid "New separator"
+msgstr "Nouveau séparateur"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:22
+msgid "New link"
+msgstr "Nouveau lien"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:23
+msgid "Delete item"
+msgstr "Supprimer l'(les)article(s)"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:24
+msgid "Advanced menu editor"
+msgstr "Editeur de menu avancé"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:27
+msgid "Reset to default"
+msgstr "Réinitialiser par défaut"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:28
+msgid "Open in a new tab?"
+msgstr "Ouvrir dans un nouvel onglet?"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:29
+msgid "Open outside frame"
+msgstr "Ouvrir le cadre extérieur"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:30
+msgid "Open without UiPress"
+msgstr "Ouvrir sans UiPress"
+
+#: assets/js/uip/plugins/uip-advanced-menu-editor.js:103
+msgid "Custom menu item"
+msgstr "Élément de menu personnalisé"
+
+#: assets/js/uip/plugins/uip-google-analytics.js:129
+msgid "No google account connected"
+msgstr "Aucun compte Google n'est connecté"
+
+#: assets/js/uip/plugins/uip-google-analytics.js:140
+msgid ""
+"No pro licence found. Please add a valid pro licence to use google analytics"
+msgstr ""
+"Aucune licence pro n'a été trouvée. Veuillez ajouter une licence pro valide "
+"pour utiliser google analytics"
+
+#: assets/js/uip/plugins/uip-google-analytics.js:249
+msgid "Unable to fetch analytic data"
+msgstr "Impossible de récupérer les données analytiques"
+
+#: assets/js/uip/plugins/uip-keyboard-shortcut.js:14
+msgid "Enable keybaord shortcut?"
+msgstr "Activer le raccourci clavier ?"
+
+#: assets/js/uip/plugins/uip-keyboard-shortcut.js:15
+msgid "Type your custom shortcut below"
+msgstr "Tapez votre raccourci personnalisé ci-dessous"
+
+#: assets/js/uip/plugins/uip-keyboard-shortcut.js:16
+msgid "Display shortcut in trigger"
+msgstr "Afficher le raccourci dans le déclencheur"
+
+#: assets/js/uip/plugins/uip-list-creator.js:12
+msgid "New item"
+msgstr "Nouvel élément"
+
+#: assets/js/uip/plugins/uip-list-creator.js:35
+msgid "List item"
+msgstr "Lister élément"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:27
+msgid "Thank you for installing UiPress 3 Pro!"
+msgstr "Merci d'avoir installé UiPress 3 Pro !"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:28
+msgid "For pro features to work correctly, please add your pro licence below"
+msgstr ""
+"Pour que les fonctionnalités pro fonctionnent correctement, veuillez ajouter "
+"votre licence pro ci-dessous"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:29
+msgid "Register"
+msgstr "S'inscrire"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:179
+#: assets/js/uip/plugins/uip-pro-plugin.js:195
+msgid "Check failed"
+msgstr "Contrôle échoué"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:179
+msgid "Unable to contact licencing servers. Please try again later"
+msgstr ""
+"Impossible de contacter les serveurs de licence. Veuillez réessayer plus tard"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:189
+msgid "Thank you!"
+msgstr "Merci !"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:189
+msgid "Your key is valid and you can now use pro features"
+msgstr ""
+"Votre clé est valide et vous pouvez maintenant utiliser les fonctions pro"
+
+#: assets/js/uip/plugins/uip-pro-plugin.js:195
+msgid "Something went wrong. Please try again later"
+msgstr ""
+"Quelque chose s’est mal passé. S’il vous plaît essayer à nouveau plus tard"
+
+#: assets/js/uip/plugins/uip-search-post-type-select.js:13
+msgid "Select post types"
+msgstr "Sélectionner des types d’articles"
+
+#: assets/js/uip/plugins/uip-search-post-type-select.js:14
+msgid "Seach post types"
+msgstr "Recherche de types de messages"
+
+#: assets/js/uip/plugins/uip-user-meta-select.js:14
+msgid "Choose meta key"
+msgstr "Choisir la clé méta"
+
+#: assets/js/uip/plugins/uip-user-meta-select.js:15
+msgid "Search keys"
+msgstr "Clés de recherche"
+
+#: assets/js/uip/plugins/uip-user-meta-select.js:16
+msgid "Change key"
+msgstr "Touche de modification"
+
+#: assets/js/uip/settings/global-settings-groups.js:7
+#: assets/js/uip/settings/template-settings-groups.js:7
+msgid "White label"
+msgstr "Marque blanche"
+
+#: assets/js/uip/settings/global-settings-groups.js:25
+msgid "Hide UiPress from plugin table"
+msgstr "Cacher UiPress de la table des plugins"
+
+#: assets/js/uip/settings/global-settings-groups.js:26
+msgid ""
+"If enabled, both UiPress lite and pro (if installed) will be hidden from the "
+"plugins table"
+msgstr ""
+"Si cette option est activée, UiPress lite et pro (s'ils sont installés) "
+"seront cachés de la table des plugins"
+
+#: assets/js/uip/settings/global-settings-groups.js:35
+msgid "Add user roles as body class"
+msgstr "Ajouter les rôles des utilisateurs comme classe de corps"
+
+#: assets/js/uip/settings/global-settings-groups.js:36
+msgid ""
+"If enabled, the current user roles will be added as classes to the admin "
+"body tag. This can give you more flexibility in your css for role based "
+"conditions"
+msgstr ""
+"Si cette option est activée, les rôles des utilisateurs actuels seront "
+"ajoutés en tant que classes à la balise body de l'administrateur. Cela peut "
+"vous donner plus de flexibilité dans votre css pour les conditions basées "
+"sur les rôles"
+
+#: assets/js/uip/settings/global-settings-groups.js:43
+msgid "Enqueue styles"
+msgstr "Styles en file d’attente"
+
+#: assets/js/uip/settings/global-settings-groups.js:44
+msgid "Add stylesheets to the head of every admin page"
+msgstr ""
+"Ajoutez des stylesheets (feuille de style) au <head> de toutes les pages "
+"admin et pages de connexion"
+
+#: assets/js/uip/settings/global-settings-groups.js:52
+msgid "Enqueue scripts"
+msgstr "Enqueue scripts"
+
+#: assets/js/uip/settings/global-settings-groups.js:53
+msgid "Add scripts to the head of every admin page"
+msgstr ""
+"Ajouter des scripts à <head> sur toutes les page admin et page de connexion"
+
+#: assets/js/uip/settings/global-settings-groups.js:62
+msgid "HTML for head"
+msgstr "HTML pour <head>"
+
+#: assets/js/uip/settings/global-settings-groups.js:63
+msgid "Add HTML here to be added to every admin page head section"
+msgstr ""
+"Ajoutez ici du HTML qui sera ajouté à la section d'en-tête de chaque page "
+"d'administration"
+
+#: assets/js/uip/settings/template-settings-groups.js:27
+msgid "Template favicon"
+msgstr "Modèle de favicon"
+
+#: assets/js/uip/settings/template-settings-groups.js:37
+msgid "Replace Wordpress in site title"
+msgstr "Remplacer Wordpress dans le titre du site"
+
+#: assets/js/uip/settings/template-settings-groups.js:48
+msgid "Google Analtics account set on user level"
+msgstr "Compte Google Analtics défini au niveau de l'utilisateur"
+
+#: assets/js/uip/settings/template-settings-groups.js:49
+msgid ""
+"By default, accounts are set site wide. So whoever logs in sees the same "
+"account data. Setting this on a user level allows each user to sync their "
+"own account"
+msgstr ""
+"Par défaut, les comptes sont définis sur l'ensemble du site. Ainsi, toute "
+"personne qui se connecte voit les mêmes données de compte. La configuration "
+"au niveau de l'utilisateur permet à chaque utilisateur de synchroniser son "
+"propre compte"
+
+#: assets/js/uip/styles/pro-styles.js:7
+msgid "Border Width"
+msgstr "Largeur de la bordure"
+
+#: assets/js/uip/styles/pro-styles.js:14
+msgid "Border Radius"
+msgstr "Rayon de la bordure"
+
+#: assets/js/uip/styles/pro-styles.js:21
+msgid "Border Colour"
+msgstr "Couleur de la bordure"
+
+#: assets/js/uip/styles/pro-styles.js:29
+msgid "Margin xxs"
+msgstr "Marge xxs"
+
+#: assets/js/uip/styles/pro-styles.js:36
+msgid "Margin xs"
+msgstr "Marge xs"
+
+#: assets/js/uip/styles/pro-styles.js:43
+msgid "Margin s"
+msgstr "Marge s"
+
+#: assets/js/uip/styles/pro-styles.js:50
+msgid "Margin m"
+msgstr "Marge m"
+
+#: assets/js/uip/styles/pro-styles.js:57
+msgid "Margin l"
+msgstr "Marge l"
+
+#: assets/js/uip/styles/pro-styles.js:65
+msgid "Padding xxs"
+msgstr "Rembourrage xxs"
+
+#: assets/js/uip/styles/pro-styles.js:72
+msgid "Padding xs"
+msgstr "Rembourrage xs"
+
+#: assets/js/uip/styles/pro-styles.js:79
+msgid "Padding s"
+msgstr "Rembourrage s"
+
+#: assets/js/uip/styles/pro-styles.js:86
+msgid "Padding m"
+msgstr "Rembourrage m"
+
+#: assets/js/uip/styles/pro-styles.js:93
+msgid "Padding l"
+msgstr "Rembourrage l"
+
+#: assets/js/uip/styles/pro-styles.js:100
+msgid "Font family"
+msgstr "Famille de police"
+
+#: assets/js/uip/tools/role-editor.js:13
+msgid "Role editor"
+msgstr "Rôle d'éditeur"
+
+#: assets/js/uip/tools/role-editor.js:14
+msgid "Search roles"
+msgstr "Rechercher des rôles"
+
+#: assets/js/uip/tools/role-editor.js:15
+msgid "Permissions"
+msgstr "Permissions"
+
+#: assets/js/uip/tools/role-editor.js:17
+msgid "others"
+msgstr "autres"
+
+#: assets/js/uip/tools/role-editor.js:18
+msgid "No users with this role"
+msgstr "Aucun utilisateur avec ce rôle"
+
+#: assets/js/uip/tools/role-editor.js:20
+msgid "Capabilities"
+msgstr "Capacités"
+
+#: assets/js/uip/tools/role-editor.js:23
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: assets/js/uip/tools/role-editor.js:25
+msgid ""
+"You are currently editing the administrator role. This is usually the most "
+"important role on the site so please make sure not to remove nessecary "
+"capabilities."
+msgstr ""
+"Vous êtes en train de modifier le rôle d'administrateur. Il s'agit "
+"généralement du rôle le plus important du site. Veillez donc à ne pas "
+"supprimer des capacités inutiles."
+
+#: assets/js/uip/tools/role-editor.js:28
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#: assets/js/uip/tools/role-editor.js:29
+msgid ""
+"Please double check the role you are deleting and ensure you no longer "
+"require it"
+msgstr ""
+"Veuillez vérifier le rôle que vous supprimez et vous assurer que vous n'en "
+"avez plus besoin"
+
+#: assets/js/uip/tools/role-editor.js:30
+msgid "Yes, delete role"
+msgstr "Oui, supprimer le rôle"
+
+#: assets/js/uip/tools/role-editor.js:31
+msgid "New role"
+msgstr "Nouveau rôle"
+
+#: assets/js/uip/tools/role-editor.js:32
+msgid "Role name"
+msgstr "Nom du rôle"
+
+#: assets/js/uip/tools/role-editor.js:33
+msgid "Role label"
+msgstr "Label de rôle"
+
+#: assets/js/uip/tools/role-editor.js:34
+msgid "Create role"
+msgstr "Créer une fonction"
+
+#: assets/js/uip/tools/role-editor.js:35
+msgid "Clone role"
+msgstr "Cloner le rôle"
+
+#: assets/js/uip/tools/role-editor.js:36
+msgid "Toggle all"
+msgstr "Basculer tout"
+
+#: assets/js/uip/tools/role-editor.js:37
+msgid "New capability"
+msgstr "Nouvelle capacité"
+
+#: assets/js/uip/tools/role-editor.js:38
+msgid "Create capability"
+msgstr "Créer une capacité"
+
+#: assets/js/uip/tools/role-editor.js:39
+msgid "Capability name"
+msgstr "Nom de capacité"
+
+#: assets/js/uip/tools/role-editor.js:209
+msgid "Role name can not be emtpty"
+msgstr "Le nom du rôle ne peut pas être emtpty"
+
+#: assets/js/uip/tools/role-editor.js:214
+msgid "Role label can not be emtpty"
+msgstr "L'étiquette du rôle ne peut pas être emtpty"
+
+#: assets/js/uip/tools/role-editor.js:275
+msgid "Capability name can not be emtpty"
+msgstr "Le nom de la capacité ne peut pas être emtpty"
+
+#. Plugin Name of the plugin/theme
+msgid "UiPress Pro"
+msgstr "Voir les plans Pro d’UiPress"
+
+#. Plugin URI of the plugin/theme
+msgid "https://uipress.co"
+msgstr "https://uipress.co"
+
+#. Description of the plugin/theme
+msgid ""
+"UiPress is an all in one solution for tailoring your WordPress admin "
+"interactions. UiPress pro expands the uipress lite plugins with new blocks "
+"and extra features"
+msgstr ""
+"UiPress est une solution tout-en-un pour personnaliser les interactions de "
+"l'administration de WordPress. UiPress pro développe les plugins uipress "
+"lite avec de nouveaux blocs et des fonctionnalités supplémentaires"
+
+#. Author of the plugin/theme
+msgid "Admin 2020"
+msgstr "Admin 2020"

@@ -1,0 +1,9 @@
+{
+  "name": "uipress-pro/uipress-pro",
+  "description": "uipress-pro",
+  "autoload": {
+    "psr-4": {
+      "UipressPro\\Classes\\": "classes/"
+    }
+  }
+}
